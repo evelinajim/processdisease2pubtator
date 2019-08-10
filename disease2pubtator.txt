@@ -1,0 +1,697 @@
+PMID	MeshID	Mentions	Resource
+1000017	MESH:D008223	lymphomas	MeSH|DNorm
+1000018	MESH:D011086	Neonatal polycythemia|polycythemia	DNorm|MeSH
+1000019	MESH:D007945	lymphocytic leukemia	MeSH
+100002	MESH:D003327	coronary disease	DNorm|MeSH
+100002	MESH:D003645	sudden death	DNorm|MeSH
+1000020	MESH:D002277	carcinoma	MeSH
+1000020	MESH:D013964	carcinoma of the thyroid gland	DNorm|MeSH
+1000023	MESH:D000741	aplastic anemia|aplastic anemias	MeSH|DNorm
+1000023	MESH:D000743	HA|hemolytic anemia|hemolytic anemias	DNorm|MeSH
+1000025	MESH:D006973	hypertensive	MeSH|DNorm
+1000033	MESH:D009765	obese|obesity	DNorm|MeSH
+1000035	MESH:D013789	thalassemia|thalassemias	MeSH
+1000039	MESH:D000230	adenocarcinoma	MeSH
+1000039	MESH:D003110	adenocarcinoma of the colon|carcinoma of the colon	DNorm|MeSH
+1000039	MESH:D006949	hyperlipemia|hyperlipidemia	DNorm|MeSH
+1000040	MESH:D001943	breast cancer|breast cancers	DNorm|MeSH
+1000042	MESH:D004443	hydatidosis	MeSH|DNorm
+1000082	MESH:D000741	aplastic anemia	MeSH|DNorm
+1000082	MESH:D014923	Wiskott-Aldrich syndrome	DNorm|MeSH
+1000085	MESH:D001172	rheumatoid arthritis	MeSH|DNorm
+1000085	MESH:D001778	blood coagulation	MeSH|DNorm
+1000085	MESH:D004211	disseminated intravascular coagulation	MeSH|DNorm
+1000085	MESH:D008103	hepatic cirrhosis	DNorm|MeSH
+1000085	MESH:D008180	systemic lupus erythematosus	MeSH|DNorm
+1000085	MESH:D009404	nephrotic syndrome	DNorm|MeSH
+1000085	MESH:D012507	sarcoidosis	MeSH|DNorm
+1000087	MESH:D005177	congenital factor XIII deficiency	DNorm|MeSH
+1000090	MESH:D006099	granulomas	MeSH|DNorm
+1000091	MESH:D002277	carcinoma of the bronchus	MeSH|DNorm
+1000092	MESH:D009303	nasopharyngeal cancers	MeSH
+1000092	MESH:D009362	metastases|metastasis	DNorm|MeSH
+1000093	MESH:D014376	Tuberculosis	MeSH|DNorm
+1000095	MESH:D008457	Measles|measles	MeSH
+1000096	MESH:D012409	Rubella|rubella	MeSH|DNorm
+1000098	MESH:D012552	schistosomiasis	MeSH|DNorm
+100010	MESH:D000741	aplastic anemia	MeSH|DNorm
+100010	MESH:D001172	rheumatoid arthritis	MeSH|DNorm
+1000114	MESH:D012798	drooling	MeSH
+1000124	MESH:D007021	hypospadias	MeSH|DNorm
+1000129	MESH:D012640	audiogenic seizures|seizure	DNorm|MeSH
+100013	MESH:D009765	hypothalamic obesity|obesity	DNorm|MeSH
+1000136	MESH:D003638	deafness	MeSH|DNorm
+1000136	MESH:D010259	paranoid	MeSH|DNorm
+1000137	MESH:D011041	poisoning	DNorm|MeSH
+1000139	MESH:D011618	psychoses	MeSH
+1000141	MESH:D012559	Schizophrenia	MeSH|DNorm
+1000143	MESH:D001523	non-schizophrenic, and non-psychiatric	MeSH|DNorm
+1000147	MESH:D001008	anxiety	DNorm|MeSH
+1000149	MESH:D006212	hallucination	MeSH|DNorm
+1000151	MESH:D008881	migraine	DNorm|MeSH
+1000169	MESH:D009542	Niemann-Pick disease	MeSH|DNorm
+1000170	MESH:D001145	arrhythmias	DNorm|MeSH
+1000177	MESH:D013919	Buerger's disease	MeSH|DNorm
+1000178	MESH:D009461	neurological deficit	MeSH|DNorm
+1000181	MESH:D010195	pancreatitis	MeSH
+1000182	MESH:D006968	delayed hypersensitivity	MeSH
+1000183	MESH:D006968	delayed hypersensitivity	MeSH
+1000183	MESH:D010538	peritonitis|starch peritonitis	MeSH|DNorm
+1000185	MESH:D011027	Tension pneumoperitoneum|pneumoperitoneum	MeSH|DNorm
+1000188	MESH:D006099	granuloma	MeSH|DNorm
+1000189	MESH:D012552	bilharziasis	MeSH|DNorm
+100019	MESH:D009203	Myocardial infarction	DNorm|MeSH
+1000195	MESH:D011655	postoperative pulmonary embolism|pulmonary embolism	DNorm|MeSH
+1000197	MESH:D005334	fever|pyrexia	MeSH|DNorm
+1000197	MESH:D010146	pains	MeSH|DNorm
+1000205	MESH:D001660	biliary disease	DNorm|MeSH
+1000205	MESH:D010182	pancreatic disease	DNorm|MeSH
+1000205	MESH:D010190	pancreatitis	MeSH|DNorm
+1000205	MESH:D010195	pancreatitis	MeSH
+1000206	MESH:D014947	Non-fatal injuries	MeSH|DNorm
+1000227	MESH:D006689	Hodgkin's disease	DNorm|MeSH
+1000227	MESH:D013163	splenomegaly	MeSH|DNorm
+1000259	MESH:D006689	Hodgkin's disease	DNorm|MeSH
+100026	MESH:D008607	mental illness|mental retardation	MeSH|DNorm
+1000260	MESH:D012507	sarcoidosis	MeSH|DNorm
+1000261	MESH:D006828	molar pregnancies	DNorm|MeSH
+1000265	MESH:D005265	femoral neck fracture|femoral neck fractures	MeSH|DNorm
+100027	MESH:D005733	Duodenal gangliosidosis|gangliosidosis	MeSH|DNorm
+1000280	MESH:D001037	aphasia	DNorm|MeSH
+1000282	MESH:D004827	epileptic seizures	DNorm|MeSH
+1000283	MESH:D002526	When cerebellar disorder|cerebellar disorders	DNorm|MeSH
+1000283	MESH:D002528	cerebellar neoplasms	DNorm|MeSH
+1000284	MESH:D002526	acute cerebellar syndrome|cerebellar haematoma|cerebellar ocular motor disorder	DNorm|MeSH
+1000284	MESH:D008545	metastatic melanoma	MeSH|DNorm
+1000285	MESH:D012640	seizure|seizures	DNorm|MeSH
+1000286	MESH:D001926	brain death	MeSH|DNorm
+1000287	MESH:D006429	hemiplegia	DNorm|MeSH
+1000287	MESH:D009128	spastic|spasticity	DNorm|MeSH
+100029	MESH:D014397	pulmonary tuberculosis	MeSH|DNorm
+1000291	MESH:D001835	body weight	MeSH
+100030	MESH:D013203	staphylococcal infection	DNorm|MeSH
+100031	MESH:D010019	osteomyelitis	MeSH
+100031	MESH:D013203	staphylococcal bacteremia|staphylococcal infection	DNorm|MeSH
+1000316	MESH:D008171	pulmonary granulomatosis	MeSH|DNorm
+1000317	MESH:D006099	granulomas	MeSH|DNorm
+100032	MESH:D002446	celiac disease	MeSH
+1000321	MESH:D008171	diffuse pulmonary diseases|pulmonary diseases	MeSH|DNorm
+1000326	MESH:D001835	body weight	MeSH
+1000327	MESH:D005234	fatty liver and kidney syndrome	DNorm|MeSH
+1000327	MESH:D013577	syndrome	MeSH
+1000336	MESH:D001862	bone resorption	MeSH
+1000336	MESH:D010024	osteoporosis	DNorm|MeSH
+1000337	MESH:D001862	Bone resorption|bone resorption	MeSH
+100034	MESH:D001523	psychiatric|psychiatric disorders	MeSH|DNorm
+1000340	MESH:D010001	Paget's disease of bone	MeSH|DNorm
+1000341	MESH:D006961	hyperparathyroidism	MeSH
+1000341	MESH:D010001	Paget's disease of bone	MeSH|DNorm
+1000342	MESH:D010024	osteoporosis	DNorm|MeSH
+1000344	MESH:D009050	fluorosis	DNorm|MeSH
+1000348	MESH:D001862	bone resorption	MeSH
+1000349	MESH:D002114	calcification of the dorsal fascia	DNorm|MeSH
+1000353	MESH:D001847	bone disease	MeSH
+1000353	MESH:D001862	bone resorption	MeSH
+1000353	MESH:D010024	osteoporosis	DNorm|MeSH
+1000354	MESH:D001862	bone resorption	MeSH
+1000356	MESH:D003728	supragingival dental calculus	MeSH|DNorm
+1000367	MESH:D001835	body weight	MeSH
+1000374	MESH:D009175	Mycoplasma agalactiae|mycoplasma|mycoplasmas	MeSH|DNorm
+1000376	MESH:D008630	mercury poisoning	MeSH
+1000379	MESH:D007637	keratoconjunctivitis	DNorm|MeSH
+100038	MESH:D011502	PCM|marasmus|protein-calorie malnutrition	DNorm|MeSH
+1000381	MESH:D009175	Mycoplasma gallisepticum	MeSH|DNorm
+1000384	MESH:D000013	birth defects	MeSH
+1000385	MESH:D008414	Bovine mastitis	DNorm|MeSH
+1000385	MESH:D009175	Mycoplasma agalactiae	MeSH|DNorm
+1000390	MESH:D000542	Hypersensitivity pneumonitis|hypersensitivity pneumonitides	MeSH
+1000408	MESH:D000544	Alzheimer's disease	MeSH|DNorm
+1000408	MESH:D003704	dementia	DNorm|MeSH
+1000408	MESH:D006849	hydrocephalus	DNorm|MeSH
+1000408	MESH:D006850	normal pressure hydrocephalus	MeSH
+1000409	MESH:D002547	Cerebral Palsy 9	DNorm|MeSH
+1000409	MESH:D004827	Epileptic 9	DNorm|MeSH
+1000410	MESH:D000860	hypoxia	DNorm|MeSH
+1000411	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000412	MESH:D003638	nerve deafness	MeSH|DNorm
+1000412	MESH:D004827	epilepsy	DNorm|MeSH
+1000412	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000412	MESH:D009896	optic atrophy	DNorm|MeSH
+1000413	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000414	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000414	MESH:D012640	seizures	DNorm|MeSH
+1000415	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000416	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000416	MESH:D006333	congestive heart failure	MeSH|DNorm
+1000417	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000418	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000419	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+100042	MESH:D034381	hearing loss|hearing losses	DNorm|MeSH
+1000420	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000420	MESH:D012600	scoliosis	DNorm|MeSH
+1000421	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000422	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000423	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000423	MESH:D005878	Gilbert's syndrome	DNorm|MeSH
+1000424	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000425	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000426	MESH:D005621	Friedreich's ataxia	MeSH|DNorm
+1000436	MESH:D011471	malignant prostate tumors|prostate tumors|prostatic cancer	DNorm|MeSH
+1000443	MESH:D006973	hypertension	DNorm|MeSH
+1000444	MESH:D006345	ventricular septal defect	DNorm|MeSH
+1000445	MESH:D006099	Granulomas	MeSH|DNorm
+1000445	MESH:D006470	bleeding	DNorm|MeSH
+1000445	MESH:D014201	trematode	DNorm|MeSH
+100045	MESH:D009085	Morquio syndrome	DNorm|MeSH
+1000455	MESH:D011928	Raynaud's phenomenon	DNorm|MeSH
+1000456	MESH:D002764	cholecystitis	MeSH|DNorm
+1000456	MESH:D005705	gallbladder disease	MeSH|DNorm
+1000457	MESH:D001442	Bacteroides fragilis	MeSH|DNorm
+1000457	MESH:D018805	sepsis	DNorm|MeSH
+1000464	MESH:D007938	leukemia	MeSH
+1000465	MESH:D009447	neuroblastoma	MeSH|DNorm
+1000466	MESH:D008545	malignant melanoma	MeSH|DNorm
+1000466	MESH:D009362	metastases	MeSH
+1000467	MESH:D007945	lymphocytic leukemia	MeSH
+1000468	MESH:D009362	Metastases	DNorm|MeSH
+1000471	MESH:D009369	neoplasms	MeSH|DNorm
+1000472	MESH:D001855	bone marrow aspiration	MeSH|DNorm
+1000473	MESH:D008545	melanoma|melanoma of the skin	MeSH|DNorm
+1000474	MESH:D010051	ovarian tumors	DNorm|MeSH
+1000475	MESH:D010190	carcinoma of the pancreas|pancreatic cancer|pancreatitis	MeSH|DNorm
+1000475	MESH:D010195	pancreatitis	MeSH
+1000480	MESH:D002294	squamous cell carcinoma|squamous cell carcinomas	DNorm|MeSH
+1000480	MESH:D010212	Epithelial papilloma|epithelial papilloma|epithelial papillomas|papilloma	DNorm|MeSH
+1000481	MESH:D008175	deficit lung cancer|lung cancer	MeSH|DNorm
+1000482	MESH:D009362	metastases|metastatic tumor|metastatic tumors	DNorm|MeSH
+1000483	MESH:D001943	breast cancer	DNorm|MeSH
+1000483	MESH:D009362	metastases	MeSH
+1000484	MESH:D001943	breast tumors	DNorm|MeSH
+1000485	MESH:D009362	metastasis	DNorm|MeSH
+1000485	MESH:D011471	prostate carcinoma|prostatic carcinoma	DNorm|MeSH
+1000486	MESH:D007945	lymphocytic leukemia	MeSH
+1000486	MESH:D012008	Testicular relapse	DNorm|MeSH
+1000494	MESH:D006042	goiters	DNorm|MeSH
+1000494	MESH:D006965	hyperplasia	MeSH|DNorm
+1000494	MESH:D013959	thyroid hyperplasia	DNorm|MeSH
+1000497	MESH:D009447	neuroblastoma	MeSH|DNorm
+1000499	MESH:D000230	adenocarcinoma	MeSH|DNorm
+1000501	MESH:D000230	adenocarcinoma	MeSH
+1000503	MESH:D001943	breast carcinoma	DNorm|MeSH
+1000503	MESH:D010190	pancreatic adenocarcinoma	MeSH|DNorm
+1000504	MESH:D001943	breast cancer	DNorm|MeSH
+1000505	MESH:D001943	breast cancer	DNorm|MeSH
+1000506	MESH:D001943	breast cancer	DNorm|MeSH
+1000508	MESH:D001749	bladder tumor|urinary bladder carcinomas	MeSH|DNorm
+1000508	MESH:D002295	transitional cell carcinomas	MeSH|DNorm
+1000510	MESH:D012510	Sarcoma 180	DNorm|MeSH
+1000513	MESH:D009369	Cancer|tumor	MeSH|DNorm
+1000516	MESH:D007939	L1210 leukemia	DNorm|MeSH
+1000518	MESH:D008545	malignant melanoma	MeSH|DNorm
+1000518	MESH:D009362	metastases	MeSH
+1000519	MESH:D000230	adenocarcinoma of the ovary	MeSH|DNorm
+1000519	MESH:D009325	nausea	DNorm|MeSH
+1000519	MESH:D014839	vomiting	DNorm|MeSH
+1000520	MESH:D009369	tumor|tumors	MeSH|DNorm
+1000521	MESH:D001943	breast carcinoma|carcinoma of the breast	DNorm|MeSH
+1000531	MESH:D010493	pericarditis	DNorm|MeSH
+1000531	MESH:D010494	constrictive pericarditis	MeSH|DNorm
+100	MESH:D016464	lysosomal storage disease	DNorm
+10000036	MESH:D019966	Dependence	DNorm
+10000039	MESH:D009069	Faraday rotation	DNorm
+1000004	MESH:D005334	hyperthermia	DNorm
+10000059	MESH:D030342	order-disorder	DNorm
+100001	MESH:D000789	unstable angina pectoris	DNorm
+10000119	MESH:D000013	defect-plane wetting	DNorm
+10000126	MESH:D003866	depression	DNorm
+10000157	MESH:D000795	Fabry-P	DNorm
+1000016	MESH:D006509	type B virus hepatitis	DNorm
+1000018	MESH:D006130	intra-uterine growth retardation	DNorm
+1000019	MESH:D007938	leukemia	DNorm
+1000019	MESH:D015451	chronic lymphocytic leukemia|chronic lymphocytic leukemia	DNorm
+100002	MESH:D003324	coronary artery disease|coronary artery disease|coronary artery disease	DNorm
+1000020	MESH:D002292	C-cell carcinoma	DNorm
+1000022	MESH:D011164	porphyria	DNorm
+1000023	MESH:C562587	deficiency of PNP-GT	DNorm
+1000023	MESH:C564971	giant mitochondria	DNorm
+1000023	MESH:D005878	Gilbert's syndrome	DNorm
+1000023	MESH:D028361	mitochondrial abnormalities	DNorm
+1000028	MESH:D006111	thyrotoxicosis|thyrotoxicosis|thyrotoxicosis	DNorm
+100003	MESH:D004696	endocarditis|endocarditis|endocarditis|endocarditis	DNorm
+100003	MESH:D007239	infections	DNorm
+1000030	MESH:D006929	hyperaldosteronism	DNorm
+1000033	MESH:D007662	ketonuria	DNorm
+1000035	MESH:D017086	beta thalassemia|beta thalassemia|beta thalassemias	DNorm
+1000038	MESH:D007938	Leukaemia|leukaemia	DNorm
+1000039	MESH:D008659	metabolic anomaly	DNorm
+1000039	MESH:D009369	tumor|cancer	DNorm
+1000039	MESH:D010257	paraneoplastic syndrome	DNorm
+1000040	MESH:D007713	Klinefelter syndrome	DNorm
+1000040	MESH:D009369	cancers|cancers|cancer	DNorm
+1000040	MESH:D018567	male breast cancer|male breast cancers	DNorm
+1000040	MESH:D030342	genetic abnormalities	DNorm
+10000400	MESH:D030342	Disorder	DNorm
+1000042	MESH:D007239	parasitic infections	DNorm
+10000422	MESH:D019966	Dependence	DNorm
+10000427	MESH:C566092	Haas-Shubnikov oscillations	DNorm
+10000459	MESH:D019966	Dependence	DNorm
+1000047	MESH:D019966	dependence	DNorm
+10000470	MESH:D028361	Structure of dislocations	DNorm
+100005	MESH:D005350	fibroma	DNorm
+10000575	MESH:D014786	Visual observation of dispirations	DNorm
+1000059	MESH:D009369	benign ovarian tumours	DNorm
+1000060	MESH:D009369	cancer	DNorm
+10000781	MESH:D030342	Alloy-disorder	DNorm
+10000784	MESH:D007184	Bloch oscillations	DNorm
+1000079	MESH:D006402	non-Newtonian viscosity of blood	DNorm
+1000082	MESH:D064420	cytotoxicity|cytotoxicity|cytotoxicity|cytotoxic|cytotoxic|cytotoxicity|cytotoxic|cytotoxic	DNorm
+10000820	MESH:C535468	cuboctahedral copper clusters	DNorm
+1000083	MESH:C536572	marrow failure	DNorm
+1000085	MESH:D007020	congenital clotting factor deficiencies	DNorm
+1000086	MESH:D001778	consumption coagulopathy	DNorm
+1000089	MESH:D009369	malignancy|malignant tumour|lymph node tumours	DNorm
+1000089	MESH:D009377	adenopathies|adenopathies	DNorm
+1000090	MESH:D001201	ascitic	DNorm
+1000090	MESH:D002277	terato-carcinomas|carcinoma|Terato-carcinoma	DNorm
+10000900	MESH:D001523	Arrhenius behavior	DNorm
+1000091	MESH:D018288	small cell carcinomas	DNorm
+1000092	MESH:D002277	Nasopharyngeal carcinomas	DNorm
+1000092	MESH:D009369	malignancies|nasopharyngeal cancers	DNorm
+10000943	MESH:D012652	Self-oscillations	DNorm
+1000099	MESH:D001523	psychiatric|psychiatric|psychiatric|psychiatric|psychiatric|psychiatric	DNorm
+10001023	MESH:D009901	Optic-phonon-limited transport and anomalous	DNorm
+10001046	MESH:D046728	atomic-force microscope	DNorm
+10001088	MESH:C536644	epitaxial silver films	DNorm
+1000110	MESH:D009336	necrosis	DNorm
+1000111	MESH:D000783	Aneurysms	DNorm
+1000112	MESH:D002280	Basal cell carcinoma	DNorm
+1000113	MESH:D006547	muscle hernias	DNorm
+1000119	MESH:D013478	mesenteric artery syndrome|mesenteric artery syndrome	DNorm
+10001204	MESH:C536693	parabolic quantum wells	DNorm
+1000125	MESH:D009369	unusual hand 'tumour	DNorm
+1000126	MESH:D003286	burn contractures of the axilla	DNorm
+10001290	MESH:D016638	Critical-state scaling	DNorm
+100013	MESH:D003920	diabetic|diabetes|diabetic	DNorm
+100013	MESH:D006946	hyperinsulinemia	DNorm
+100013	MESH:D006963	hyperphagia	DNorm
+100013	MESH:D006984	Hypertrophy	DNorm
+100013	MESH:D007027	ventromedial hypothalamic (VMH) lesions	DNorm
+1000131	MESH:C537221	caudal epididymis	DNorm
+10001313	MESH:C537238	Pairing	DNorm
+10001326	MESH:D030342	Order-disorder	DNorm
+1000133	MESH:D010300	Parkinsonian	DNorm
+10001343	MESH:D050723	fracture	DNorm
+1000136	MESH:D000341	paranoid and affective psychoses	DNorm
+1000136	MESH:D011605	psychosis	DNorm
+1000137	MESH:D001523	aggression	DNorm
+1000137	MESH:D006948	hyperactivity	DNorm
+1000137	MESH:D007174	impulsiveness	DNorm
+1000137	MESH:D053206	nocturnal enuresis	DNorm
+10001392	MESH:D015456	Ripplon-roton hybridization	DNorm
+10001396	MESH:C537881	In-plane vortex-lattice depinning	DNorm
+1000140	MESH:D020018	sexual anomalies	DNorm
+10001421	MESH:C567546	amorphous gallium	DNorm
+1000143	MESH:D005334	Lengthy illness	DNorm
+1000143	MESH:D012559	schizophrenic|schizophrenic|schizophrenic|schizophrenic	DNorm
+1000144	MESH:C564108	manic illness	DNorm
+1000144	MESH:D003866	depressed|depression|depressed	DNorm
+1000144	MESH:D019957	motor retardation|motor retardation|motor retardation|motor retardation	DNorm
+1000145	MESH:D001008	anxiety	DNorm
+1000145	MESH:D007859	academic|academic	DNorm
+10001467	MESH:D006212	Elementary excitations	DNorm
+1000147	MESH:D003866	depression	DNorm
+10001503	MESH:D028361	Crystal-structure	DNorm
+10001518	MESH:D009069	Faraday rotation	DNorm
+1000152	MESH:D009771	obsessional-compulsive disorder	DNorm
+10001523	MESH:D019966	Dependence	DNorm
+10001588	MESH:C566092	Haas	DNorm
+1000162	MESH:D004844	epistaxis	DNorm
+10001621	MESH:D009901	Longitudinal-optical phonons	DNorm
+1000167	MESH:D020786	traumatic extracerebral lesions|traumatic intracranial extracerebral lesions	DNorm
+10001673	MESH:C536693	parabolic quantum wells	DNorm
+1000168	MESH:C536214	myoepithelial contraction	DNorm
+1000169	MESH:D010024	osteoporosis	DNorm
+100017	MESH:D006935	hypercapnia|hypercapnia|hypercapnia	DNorm
+100017	MESH:D015834	cochlear microphonics|CM|CM	DNorm
+1000170	MESH:D003866	ST segment depression	DNorm
+1000170	MESH:D007022	hypotension	DNorm
+1000170	MESH:D018879	premature ventricular contractions	DNorm
+10001701	MESH:D006816	HD	DNorm
+10001741	MESH:D030342	correlated disorder	DNorm
+1000177	MESH:D001157	arterial occlusive disease	DNorm
+1000178	MESH:D003251	arteriosclerotic stenosis	DNorm
+1000178	MESH:D014715	artery insufficiency	DNorm
+10001781	MESH:D006212	Elementary excitations	DNorm
+1000179	MESH:D028361	Structural deterioration	DNorm
+1000180	MESH:D000013	Each anomaly	DNorm
+1000180	MESH:D042882	gallstones	DNorm
+1000180	MESH:D044584	important ductal anomalies	DNorm
+1000180	MESH:D056486	accessory hepatic ducts	DNorm
+10001803	MESH:D019966	dependence	DNorm
+1000181	MESH:D042882	Gallstone pancreatitis|gallstone pancreatitis	DNorm
+1000182	MESH:C566443	Additives and protein components	DNorm
+1000182	MESH:D004342	hypersensitivity to starch glove	DNorm
+1000183	MESH:D004342	Allergic starch peritonitis|hypersensitivity	DNorm
+1000183	MESH:D006099	florid omental granulomas	DNorm
+10001830	MESH:D000013	Phonon anomalies	DNorm
+1000184	MESH:C563598	anastomosis	DNorm
+1000184	MESH:D007249	inflammation	DNorm
+1000185	MESH:D003110	malignant neoplasm of the pelvic colon with obstruction	DNorm
+1000185	MESH:D003112	pseudo-obstruction of the transverse colon	DNorm
+1000185	MESH:D004646	surgical emphysema	DNorm
+1000185	MESH:D014456	ulcer	DNorm
+10001851	MESH:D020511	Josephson-junction arrays	DNorm
+10001857	MESH:D007787	Anisotropic-vortex-flux production	DNorm
+1000188	MESH:D001064	appendicitis	DNorm
+1000188	MESH:D007249	acute inflammation	DNorm
+100019	MESH:D007238	infarct|infarct	DNorm
+100019	MESH:D007511	ischemic|ischemic|ischemic	DNorm
+10001900	MESH:D054549	broken-bond defect	DNorm
+1000192	MESH:D009765	obesity	DNorm
+1000193	MESH:D008107	Spontaneous rupture of the liver	DNorm
+1000195	MESH:D007869	pneumatic leggings	DNorm
+1000195	MESH:D009408	pneumatic leg compression	DNorm
+1000195	MESH:D020246	deep vein thrombosis|deep vein thrombosis	DNorm
+1000196	MESH:D016715	Proteus|Proteus mirabilis	DNorm
+1000197	MESH:D018805	Dental sepsis|dental sepsis	DNorm
+1000199	MESH:D013577	Cushingoid syndrome	DNorm
+100020	MESH:D013959	Congenital thyroid disease	DNorm
+10002005	MESH:D000013	elastic anomalies	DNorm
+1000201	MESH:D008581	Meningitis	DNorm
+10002019	MESH:D030342	isotopic disorder	DNorm
+1000202	MESH:D058186	acute renal failure	DNorm
+1000205	MESH:D001656	extrahepatic biliary disease	DNorm
+1000205	MESH:D065311	carcinoma	DNorm
+10002057	MESH:D003027	cluster-cluster collisions	DNorm
+1000206	MESH:D050723	fractures	DNorm
+10002061	MESH:D000267	Adhesive avalanche	DNorm
+10002066	MESH:D019966	dependence	DNorm
+1000209	MESH:D003324	Coronary artery disease	DNorm
+1000209	MESH:D055008	coalworkers' pneumoconiosis	DNorm
+10002115	MESH:D020511	Josephson-junction	DNorm
+1000212	MESH:D007251	influenza	DNorm
+10002120	MESH:D009041	fluctuation, and vortex motion	DNorm
+1000215	MESH:D003424	Crohn's disease	DNorm
+1000215	MESH:D004194	coeliac disease	DNorm
+1000216	MESH:D055009	cervical spondylosis	DNorm
+1000217	MESH:D011471	Prostatic cancer	DNorm
+1000221	MESH:D006973	hypertension	DNorm
+1000224	MESH:D010018	osteomalacia	DNorm
+10002242	MESH:D050723	Fracture	DNorm
+1000225	MESH:D003424	Crohn's disease	DNorm
+1000227	MESH:D004194	iliac disease	DNorm
+1000227	MESH:D004828	Abdominal disease	DNorm
+1000227	MESH:D008107	Liver disease	DNorm
+1000227	MESH:D013158	splenic disease	DNorm
+10002279	MESH:D000013	Defect-defect	DNorm
+10002288	MESH:D028361	structural disorder	DNorm
+1000231	MESH:D001327	autoimmune disease	DNorm
+1000232	MESH:D000755	sickle-cell disease	DNorm
+10002322	MESH:D003866	Depression	DNorm
+10002326	MESH:C537881	Josephson-vortex-lattice	DNorm
+1000233	MESH:D005168	Factor VII deficiency	DNorm
+1000233	MESH:D009404	nephrotic syndrome	DNorm
+1000234	MESH:D001161	arteriosclerosis	DNorm
+1000237	MESH:D006259	head injury|head injuries	DNorm
+1000237	MESH:D020198	traumatic intracranial haematoma	DNorm
+1000237	MESH:D020300	intracranial haematoma	DNorm
+1000240	MESH:D000031	repeat abortions	DNorm
+1000240	MESH:D001766	legal abortion	DNorm
+1000241	MESH:D007239	exotic infections	DNorm
+1000242	MESH:D001249	asthma	DNorm
+10002445	MESH:D030342	complexities of disorder	DNorm
+10002446	MESH:D007184	Bloch oscillations	DNorm
+1000245	MESH:D006111	neonatal thyrotoxicosis	DNorm
+1000248	MESH:D012410	congenital rubella	DNorm
+1000251	MESH:D001943	breast cancer	DNorm
+1000252	MESH:D002771	cholera	DNorm
+1000256	MESH:D020388	Becker type X-linked muscular dystrophy	DNorm
+10002569	MESH:D015431	Anomalous reduction of solvent friction	DNorm
+10002570	MESH:D001791	fractal aggregates	DNorm
+10002576	MESH:D006816	HD	DNorm
+10002593	MESH:D006212	Elementary excitations	DNorm
+100026	MESH:D001523	mental disorders	DNorm
+100026	MESH:D008659	metabolic diseases|metabolic disorders	DNorm
+100026	MESH:D009542	Niemann-Pick disease	DNorm
+100026	MESH:D010661	phenylketonuria	DNorm
+100026	MESH:D030342	anabolic disorders	DNorm
+1000260	MESH:D018376	sarcoidosis abnormalities	DNorm
+1000261	MESH:D004211	intravascular coagulation	DNorm
+10002614	MESH:D000013	columnar defects	DNorm
+10002617	MESH:C537238	pairing	DNorm
+1000262	MESH:D006457	Paroxysmal nocturnal haemoglobinuria-like defect	DNorm
+1000262	MESH:D007938	lymphatic leukaemia	DNorm
+10002628	MESH:D019966	Dependence	DNorm
+1000263	MESH:D014947	Ligamentous injuries	DNorm
+1000264	MESH:D004485	eczema	DNorm
+1000265	MESH:D050723	fracture	DNorm
+1000267	MESH:C538336	NHS|NHS	DNorm
+1000269	MESH:D001927	Paroxysmal brain stem dysfunction	DNorm
+1000269	MESH:D009103	multiple sclerosis	DNorm
+1000270	MESH:D013577	cushingoid syndrome	DNorm
+10002705	MESH:D019966	dependence	DNorm
+10002720	MESH:D019966	Dependence	DNorm
+1000273	MESH:D009203	Myocardial infarction	DNorm
+1000279	MESH:D002561	intracranial diseases	DNorm
+100028	MESH:D009140	kyphotic deformity of the vertebral column	DNorm
+100028	MESH:D016063	surgical incision	DNorm
+1000280	MESH:D000849	anomic aphasia	DNorm
+1000280	MESH:D001041	sensory aphasia	DNorm
+1000280	MESH:D009155	voluntary speech|voluntary speech	DNorm
+1000280	MESH:D014899	Wernicke's area|Wernicke's area|Wernicke's area|Wernicke's area|Wernicke's area|Wernicke's area|Wernicke's area	DNorm
+10002807	MESH:D008569	memory loss	DNorm
+1000282	MESH:C537069	automatisms|automatisms|automatism	DNorm
+1000282	MESH:D012640	during frontal lobe seizures	DNorm
+1000283	MESH:D008107	vermian dysfunction	DNorm
+1000283	MESH:D015430	adaptive gain|increased gain	DNorm
+1000284	MESH:D003711	demyelinating disease	DNorm
+1000284	MESH:D005128	Ocular oscillations	DNorm
+1000284	MESH:D009369	tumour	DNorm
+1000284	MESH:D015430	gain abnormality	DNorm
+1000284	MESH:D015835	disorder of saccadic eye movement	DNorm
+1000285	MESH:D002534	cerebral hypoxia	DNorm
+1000285	MESH:D004827	epileptic seizures|epileptic seizures	DNorm
+1000285	MESH:D007022	arterial hypotension|hypotension	DNorm
+1000285	MESH:D008305	hyperpyrexia	DNorm
+10002850	MESH:C538139	Si-Ge alloys	DNorm
+1000287	MESH:C536214	voluntary contraction	DNorm
+1000287	MESH:D001927	Cerebral lesions	DNorm
+1000287	MESH:D006470	haemorrhage	DNorm
+1000287	MESH:D007238	infarction	DNorm
+1000288	MESH:C563206	HRP|horseradish peroxidase|HRP|HRP|horseradish peroxidase|HRP|HRP|HRP	DNorm
+10002885	MESH:D000013	elastic anomalies	DNorm
+10002889	MESH:C566092	Haas-van Alphen data	DNorm
+1000291	MESH:D006130	retarded growth	DNorm
+10002923	MESH:C537881	diatomic linear lattice	DNorm
+10002986	MESH:C537238	Cooper-pair	DNorm
+100030	MESH:D004696	endocarditis|endocarditis|endocarditis	DNorm
+100030	MESH:D007239	infection|infection|infection	DNorm
+100030	MESH:D016470	bacteremia|bacteremia|bacteremia|bacteremia|bacteremia|bacteremia|bacteremia|bacteremia	DNorm
+1000300	MESH:D013119	spinal cord trauma	DNorm
+10003026	MESH:D000013	dipolar defects	DNorm
+10003052	MESH:D009069	Faraday rotation	DNorm
+1000309	MESH:D006470	hemorrhage	DNorm
+100031	MESH:C535456	chronic staphylococcal osteomyelitis|chronic staphylococcal osteomyelitis|chronic staphylococcal osteomyelitis	DNorm
+100031	MESH:D004696	endocarditis|staphylococcal endocarditis	DNorm
+1000311	MESH:D007021	hypospadias	DNorm
+10003118	MESH:D013180	Strain-engineered incommensurability	DNorm
+1000312	MESH:C567079	unilateral deafness	DNorm
+1000314	MESH:D011658	interstitial pulmonary fibrosis	DNorm
+1000315	MESH:D011658	pulmonary fibrosis	DNorm
+1000317	MESH:D001523	aggression	DNorm
+1000317	MESH:D004487	edema	DNorm
+1000317	MESH:D013898	Chest Diseases	DNorm
+10003194	MESH:C536528	van der	DNorm
+100032	MESH:D003490	cyanosis	DNorm
+100032	MESH:D003967	Diarrhea|diarrhea|diarrhea|diarrhea	DNorm
+100032	MESH:D007022	hypotension	DNorm
+100032	MESH:D009059	intestinal mucosal lesion	DNorm
+100032	MESH:D012769	shock	DNorm
+100032	MESH:D015431	weight loss	DNorm
+100032	MESH:D034381	wegith loss	DNorm
+10003249	MESH:D030342	Disorder	DNorm
+1000325	MESH:D006130	growth retardation	DNorm
+1000326	MESH:D003866	depressed	DNorm
+1000327	MESH:D008107	liver and kidney weights	DNorm
+1000328	MESH:C536271	premature ovulation	DNorm
+1000330	MESH:D009422	neurologic diseases	DNorm
+1000330	MESH:D010689	phlebitis	DNorm
+1000330	MESH:D054060	Pulmonary infarct	DNorm
+10003302	MESH:D030342	Atomic disorder	DNorm
+1000331	MESH:C537437	L-ornithine decarboxylase	DNorm
+100034	MESH:D002189	Cannabis|cannabis|Cannabis|cannabis|cannabis	DNorm
+100034	MESH:D011596	psychomotor deficiency	DNorm
+1000341	MESH:D005776	glucosyl-galactosyl-hydroxylysine	DNorm
+1000341	MESH:D011507	urinary excretion of glucosyl-galactosyl-hydroxylysine and of galactosyl	DNorm
+1000341	MESH:D049950	primary hyperparathyroidism|primary hyperparathyroidism	DNorm
+1000342	MESH:C535563	tibia|tibia	DNorm
+1000342	MESH:D016301	bone loss	DNorm
+1000342	MESH:D020966	disuse osteoporosis|disuse osteoporosis	DNorm
+10003444	MESH:D003866	depression	DNorm
+10003448	MESH:D030342	local disorder	DNorm
+1000345	MESH:D007674	calcification of the renal parenchyma	DNorm
+10003452	MESH:D019966	Structural dependence on composition	DNorm
+1000346	MESH:D015430	weight gain	DNorm
+1000347	MESH:C536201	RPGs|RPGs|RPGs|RPGs|RPGs|RPGs|resistant proteoglycans|RPGs|RPGs	DNorm
+10003475	MESH:D028361	layered structures	DNorm
+100035	MESH:D009402	MIC|minimal inhibitory concentration|MIC|MIC|minimal inhibitory concentration|MIC|MIC|MIC|MIC	DNorm
+1000353	MESH:D001851	metabolic bone disease|metabolic bone disease	DNorm
+1000353	MESH:D025063	generalised skeletal disorders	DNorm
+1000354	MESH:D015430	weight gain	DNorm
+1000356	MESH:D002137	supragingival calculus	DNorm
+10003579	MESH:C535468	copper oxides	DNorm
+1000361	MESH:D015458	TN-T	DNorm
+1000363	MESH:C535600	dopamine beta-hydroxylase|DbetaH|DbetaH|DbetaH|DbetaH	DNorm
+1000365	MESH:D011123	polyploid|polyploid	DNorm
+1000365	MESH:D048629	chromosomal rearrangement and fragmentation	DNorm
+1000373	MESH:D015651	mycotoxicosis	DNorm
+1000373	MESH:D064420	toxicity	DNorm
+1000374	MESH:D008413	mastitis	DNorm
+1000374	MESH:D012678	mastitic symptoms	DNorm
+1000374	MESH:D013736	indirect hemagglutination test|IHA|IHA|indirect hemagglutination test|IHA|IHA|IHA|IHA|IHA|IHA|IHA|IHA|IHA	DNorm
+1000375	MESH:D064420	toxicity	DNorm
+1000376	MESH:D003643	death	DNorm
+1000377	MESH:D007239	initial infection|chlamydial infection	DNorm
+1000378	MESH:D006943	hyperglycemia|hyperglycemia	DNorm
+1000378	MESH:D014947	trauma|trauma|trauma	DNorm
+1000379	MESH:D003141	infectious bovine kerato-conjuctivitis|infectious bovine kerato-conjuctivitis	DNorm
+1000379	MESH:D007639	infectious bovine keratoconjunctivitis	DNorm
+100038	MESH:D007732	kwashiorkor|kwashiorkor	DNorm
+100038	MESH:D009461	Protein-calorie deficits	DNorm
+100038	MESH:D044342	protein-malnutrition	DNorm
+1000380	MESH:D015651	mycotoxicoses	DNorm
+10003804	MESH:D030342	static disorder	DNorm
+1000382	MESH:D008107	Liver and kidney samples	DNorm
+1000383	MESH:D006461	hemolysis|hemolysis|hemolysis	DNorm
+1000384	MESH:D000014	birth defects	DNorm
+1000385	MESH:D008413	mycoplasma mastitis	DNorm
+1000386	MESH:D006946	hyperinsulinemia|hyperinsulinemia	DNorm
+1000390	MESH:D002282	alveolar lumina	DNorm
+1000390	MESH:D004342	Hypersensitivity pneumonitis|hypersensitivity	DNorm
+1000390	MESH:D005203	farmer's lung	DNorm
+1000390	MESH:D006470	haemorrhage	DNorm
+1000390	MESH:D011014	pneumonitis|pneumonitis|Pneumonitis|pneumonitis	DNorm
+1000390	MESH:D014657	Vasculitis	DNorm
+1000391	MESH:D025861	coagulation defects	DNorm
+1000395	MESH:D007815	Cooperia oncophora larvae|Cooperia oncophora larvae	DNorm
+1000397	MESH:D004802	eosinophils	DNorm
+1000397	MESH:D007239	Patent infections	DNorm
+10003970	MESH:D006816	HD	DNorm
+10003998	MESH:D000860	oxygen deficiencies	DNorm
+1000400	MESH:D000740	anemia	DNorm
+1000400	MESH:D001201	ascites	DNorm
+1000400	MESH:D003866	depression	DNorm
+1000400	MESH:D005234	fatty change|fatty change	DNorm
+1000404	MESH:D005334	fever	DNorm
+1000404	MESH:D006192	Hemophilus somnus|Hemophilus somnus	DNorm
+1000404	MESH:D018805	Hemophilus septicemia	DNorm
+10004047	MESH:D021922	Discreteness	DNorm
+10004060	MESH:D006319	neural networks	DNorm
+10004073	MESH:D000860	oxygen-deficiency	DNorm
+1000408	MESH:C536599	Neurofibrillary tangles|neurofibrillary tangle	DNorm
+10004089	MESH:C537238	Cooper pairs	DNorm
+1000409	MESH:D002526	Ipsilateral cerebellar stimulation|cerebellar damage	DNorm
+1000411	MESH:D013132	spino-cerebellar degeneration	DNorm
+1000412	MESH:D000014	congenital malformations|congenital malformations	DNorm
+1000412	MESH:D003920	diabetes mellitus|diabetes mellitus	DNorm
+1000412	MESH:D004194	Associated abnormalities	DNorm
+1000412	MESH:D009202	cardiomyopathy	DNorm
+1000412	MESH:D012640	convulsions	DNorm
+1000414	MESH:D004827	interictal epileptic abnormalities|epileptic seizures	DNorm
+1000414	MESH:D013132	other cerebellar degenerations	DNorm
+1000414	MESH:D018376	electroencephalographic abnormalities	DNorm
+1000414	MESH:D030342	spinal disorder	DNorm
+1000416	MESH:D009202	cardiomyopathy	DNorm
+1000416	MESH:D009422	neurological disorder	DNorm
+1000416	MESH:D024741	ventricular hypertrophy	DNorm
+1000417	MESH:C566005	ASH|Asymmetric septal hypertrophy	DNorm
+1000417	MESH:D006331	cardiac abnormalities	DNorm
+1000417	MESH:D006984	hypertrophy|septal hypertrophy	DNorm
+1000417	MESH:D009202	type of cardiomyopathy	DNorm
+1000417	MESH:D017379	left ventricular hypertrophy	DNorm
+1000417	MESH:D018487	left ventricular enlargement	DNorm
+1000418	MESH:D008607	severely handicapped	DNorm
+1000418	MESH:D009202	cardiomyopathies|cardiomyopathy	DNorm
+1000418	MESH:D009422	neurological impairment	DNorm
+1000418	MESH:D018487	hypokinetic left ventricular myocardium	DNorm
+1000419	MESH:D003866	hypokinesis and depressed	DNorm
+1000419	MESH:D006984	hypertrophic type|hypertrophy|hypertrophy	DNorm
+1000419	MESH:D009202	cardiomyopathy	DNorm
+1000420	MESH:C564593	idiopathic scoliosis	DNorm
+10004206	MESH:D020261	rhombohedral arsenic	DNorm
+1000422	MESH:D001259	ataxia|ataxic|ataxia	DNorm
+1000422	MESH:D003920	diabetes|diabetes	DNorm
+1000422	MESH:D044882	Glucose and insulin metabolism	DNorm
+1000423	MESH:D001259	ataxic disease	DNorm
+10004236	MESH:D015775	Uniaxial-stress determination	DNorm
+1000424	MESH:D030342	genetic defect	DNorm
+1000426	MESH:D004194	typical disease	DNorm
+1000426	MESH:D009202	cardiomyopathy	DNorm
+1000426	MESH:D019636	degenerative disease	DNorm
+1000426	MESH:D030342	definition of the disorder	DNorm
+100043	MESH:D001656	biliary atresia|biliary atresia|extrahepatic biliary atresia|biliary atresia	DNorm
+100043	MESH:D001661	biliary obstruction	DNorm
+100043	MESH:D007565	jaundiced|jaundice	DNorm
+10004302	MESH:D030342	Effect of disorder	DNorm
+10004331	MESH:D003731	decay of Josephson junctions	DNorm
+1000434	MESH:D009369	Cervical cancer	DNorm
+1000435	MESH:D002771	cholera	DNorm
+1000436	MESH:D009369	malignant diseases	DNorm
+1000442	MESH:D004342	allergic dermatitis	DNorm
+1000442	MESH:D017453	contact irritant dermatitis	DNorm
+1000444	MESH:D004696	endocarditis|endocarditis	DNorm
+1000444	MESH:D011014	pneumonia	DNorm
+10004445	MESH:D020511	Josephson-junction arrays	DNorm
+1000445	MESH:D004211	intravascular coagulation	DNorm
+1000445	MESH:D007239	Systemic infection|infection|infection	DNorm
+1000445	MESH:D018366	Hypersensitivity vasculitis	DNorm
+100045	MESH:D008059	Hurler syndrome	DNorm
+100045	MESH:D009084	Sanfilippo syndrome	DNorm
+1000450	MESH:D000196	actinomycosis	DNorm
+10004502	MESH:C535468	copper-bismuth alloys	DNorm
+1000451	MESH:D008288	Malaria	DNorm
+10004517	MESH:D040181	corner-linked polyhedral compounds	DNorm
+1000453	MESH:D006943	Hyperglycemia	DNorm
+1000453	MESH:D007010	hyponatremia	DNorm
+1000455	MESH:D004194	Traumatic vasospastic disease	DNorm
+1000456	MESH:D005334	present illness	DNorm
+1000456	MESH:D008659	metabolic disease	DNorm
+10004563	MESH:D004204	Frank sessile dislocations	DNorm
+10004564	MESH:D019966	Dependence	DNorm
+1000457	MESH:D007239	infection	DNorm
+1000457	MESH:D011014	Klebsiella pneumoniae	DNorm
+1000457	MESH:D016470	bacteremia|bacteremia|bacteremia	DNorm
+1000457	MESH:D060085	mixed infections	DNorm
+10004576	MESH:D030342	absorption and disorder	DNorm
+1000461	MESH:D007855	lead poisoning	DNorm
+1000463	MESH:D012480	Salmonella|Salmonella	DNorm
+10004631	MESH:D006212	Elementary excitations	DNorm
+1000464	MESH:D001791	Platelet aggregation|platelet aggregation|platelet aggregation	DNorm
+1000464	MESH:D015470	acute leukemia	DNorm
+1000465	MESH:C537775	segmental total-body irradiation	DNorm
+1000465	MESH:D001855	bone marrow suppression	DNorm
+1000465	MESH:D004194	longer disease-free remissions	DNorm
+1000465	MESH:D009369	tumor|localized tumors|tumor|localized tumors	DNorm
+1000465	MESH:D064420	toxicity	DNorm
+1000467	MESH:D009369	malignant disease	DNorm
+1000467	MESH:D015451	chronic lymphocytic leukemia|chronic lymphocytic leukemia|CLL|CLL|CLL|CLL|CLL	DNorm
+10004679	MESH:D005184	nanometer-size tubes	DNorm
+1000468	MESH:D008105	liver or biliary disease	DNorm
+1000469	MESH:D004194	retroperitoneal disease	DNorm
+1000469	MESH:D009369	cancer	DNorm
+1000469	MESH:D015179	colorectal cancer|colorectal cancer	DNorm
+1000470	MESH:D004417	breathlessness	DNorm
+1000470	MESH:D004646	emphysema	DNorm
+1000470	MESH:D006486	hemosiderosis	DNorm
+1000470	MESH:D008171	pulmonary lymphangiomyomatosis|Pulmonary lymphangiomyomatosis	DNorm
+1000471	MESH:D020518	nodular fasciitis|nodular fasciitis|Nodular fasciitis	DNorm
+1000472	MESH:D009369	malignancies|tumor|malignancies|tumor|cancer	DNorm
+1000472	MESH:D053120	aspiration	DNorm
+10004722	MESH:D002349	Comparison of resonant tunneling	DNorm
+10004738	MESH:D009069	epitaxial rotation	DNorm
+1000474	MESH:D009369	tumors|tumors|tumors|tumors	DNorm
+10004741	MESH:D019966	dependence	DNorm
+1000475	MESH:C562463	pancreatic carcinoma|pancreatic carcinoma	DNorm
+1000475	MESH:D009369	cancer	DNorm
+1000475	MESH:D010182	pancreatic disease|pancreatic disease	DNorm
+1000475	MESH:D010190	pancreatitis|carcinoma of the pancreas|pancreatitis	DNorm
